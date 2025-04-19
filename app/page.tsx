@@ -14,7 +14,7 @@ export default function Home() {
       <section className="relative h-[90vh] min-h-[700px] flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/product3.jpeg?height=100&width=1920"
+            src="/hero.jpeg?height=100&width=1920"
             alt="Cooler in the wild"
             fill
             className="object-cover brightness-75"
